@@ -1,0 +1,9 @@
+project_name,company,latitude,longitude,clean_room_area,equipment_cost,total_cost,construction_company,status
+SK하이닉스 용인 반도체 클러스터,SK하이닉스,37.2333,127.2083,120000,25.8,61.2,SK에코플랜트,진행 중
+삼성전자 평택 P3 라인,삼성전자,36.9923,127.0885,128000,27.3,65.8,삼성엔지니어링,완공
+TSMC 화성 공장,TSMC,37.2156,127.0414,80000,18.5,45.3,POSCO건설,계획
+Intel 마그데부르크 공장,Intel,52.1205,11.6276,95000,20.2,48.7,Hochtief,진행 중
+Micron 뉴욕 공장,Micron,43.0481,-76.1474,88000,19.5,46.2,Turner Construction,진행 중
+SK하이닉스 청주 M15 라인,SK하이닉스,36.6424,127.489,57000,12.8,30.5,SK에코플랜트,완공
+TSMC 애리조나 공장,TSMC,33.4484,-111.9431,110000,23.5,56.8,Jacobs Engineering,진행 중
+Samsung Taylor 공장,삼성전자,30.5702,-97.4097,115000,24.2,58.3,삼성엔지니어링,진행 중
