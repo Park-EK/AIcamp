@@ -1,20 +1,25 @@
 import os
-import sys
 import streamlit as st
 import pandas as pd
 import numpy as np
 from datetime import datetime
 
-# 상위 디렉토리 경로 추가
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-
-# 유틸리티 모듈 임포트
-from utils.visualization_utils import apply_custom_css, COLOR_PALETTE
-from utils.data_utils import generate_sample_data
-from components.semiconductor_industry import show_semiconductor_industry_main, show_supply_chain
-from components.construction_industry import show_construction_industry
-from components.information import show_information
-from components.news_component import show_news
+# 상대 경로로 모듈 임포트
+try:
+    from utils.visualization_utils import apply_custom_css, COLOR_PALETTE
+    from utils.data_utils import generate_sample_data
+    from components.semiconductor_industry import show_semiconductor_industry_main, show_supply_chain
+    from components.construction_industry import show_construction_industry
+    from components.information import show_information
+    from components.news_component import show_news
+except ImportError:
+    # Streamlit Cloud에서 실행될 때의 경로
+    from .utils.visualization_utils import apply_custom_css, COLOR_PALETTE
+    from .utils.data_utils import generate_sample_data
+    from .components.semiconductor_industry import show_semiconductor_industry_main, show_supply_chain
+    from .components.construction_industry import show_construction_industry
+    from .components.information import show_information
+    from .components.news_component import show_news
 
 # 페이지 설정
 st.set_page_config(
