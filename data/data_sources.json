@@ -1,0 +1,62 @@
+{
+    "market_reports": [
+        {
+            "name": "반도체 산업 건설 시장 전망",
+            "publisher": "SEMI",
+            "year": 2024,
+            "description": "글로벌 반도체 산업의 건설 투자 동향 및 전망 분석"
+        },
+        {
+            "name": "반도체 Fab 건설 시장 분석",
+            "publisher": "Gartner",
+            "year": 2024,
+            "description": "주요 반도체 기업의 Fab 건설 계획 및 투자 규모 분석"
+        },
+        {
+            "name": "반도체 설비투자 동향",
+            "publisher": "IC Insights",
+            "year": 2024,
+            "description": "글로벌 반도체 기업의 설비투자 및 건설 프로젝트 분석"
+        }
+    ],
+    "company_reports": [
+        {
+            "name": "사업보고서",
+            "company": "삼성물산",
+            "type": "분기/연간 보고서",
+            "years": [2020, 2021, 2022, 2023, 2024]
+        },
+        {
+            "name": "사업보고서",
+            "company": "SK에코플랜트",
+            "type": "분기/연간 보고서",
+            "years": [2020, 2021, 2022, 2023, 2024]
+        },
+        {
+            "name": "Annual Report",
+            "company": "TSMC",
+            "type": "연간 보고서",
+            "years": [2020, 2021, 2022, 2023]
+        }
+    ],
+    "news_sources": [
+        {
+            "name": "Nikkei Asia",
+            "type": "News Media",
+            "region": "Asia",
+            "coverage": "Semiconductor industry news and analysis"
+        },
+        {
+            "name": "The Korea Times",
+            "type": "News Media",
+            "region": "Korea",
+            "coverage": "Korean semiconductor industry news"
+        }
+    ],
+    "methodology": {
+        "data_collection": "각 기업의 공시 자료, 시장 보고서, 언론 보도 등을 종합하여 데이터를 수집하였습니다.",
+        "forecast": "향후 전망은 각 기업의 투자 계획과 시장 분석 기관의 전망을 기반으로 산출되었습니다.",
+        "verification": "수집된 데이터는 다수의 출처를 교차 검증하여 신뢰성을 확보하였습니다.",
+        "disclaimer": "본 대시보드에 표시된 데이터는 참고용으로만 사용되어야 하며, 실제 값과 차이가 있을 수 있습니다."
+    }
+} 

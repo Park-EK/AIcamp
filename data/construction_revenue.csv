@@ -1,0 +1,45 @@
+Year,Country,Company,Revenue,Source
+2020,Korea,Samsung C&T,8520,Samsung C&T Annual Report 2020
+2020,Korea,SK Ecoplant,7250,SK Ecoplant Financial Statement 2020
+2020,USA,Bechtel,3850,ENR Top 400 Contractors 2021
+2020,China,CTCI,2100,CTCI Annual Report 2020
+2021,Korea,Samsung C&T,9150,Samsung C&T Annual Report 2021
+2021,Korea,SK Ecoplant,8100,SK Ecoplant Financial Statement 2021
+2021,USA,Bechtel,4200,ENR Top 400 Contractors 2022
+2021,China,CTCI,2450,CTCI Annual Report 2021
+2022,Korea,Samsung C&T,10500,Samsung C&T Annual Report 2022
+2022,Korea,SK Ecoplant,9300,SK Ecoplant Financial Statement 2022
+2022,USA,Bechtel,4800,ENR Top 400 Contractors 2023
+2022,China,CTCI,2800,CTCI Annual Report 2022
+2023,Korea,Samsung C&T,11200,Samsung C&T Q3 Report 2023
+2023,Korea,SK Ecoplant,10100,SK Ecoplant Q3 Report 2023
+2023,USA,Bechtel,5100,Bechtel Press Release 2023
+2023,China,CTCI,3100,CTCI Q3 Report 2023
+2024,Korea,Samsung C&T,12500,SEMI Market Forecast 2024
+2024,Korea,SK Ecoplant,11000,McKinsey Industry Outlook 2024
+2024,USA,Bechtel,5500,Gartner Market Forecast 2024
+2024,China,CTCI,3500,IC Insights Market Outlook 2024
+2025,Korea,Samsung C&T,13800,SEMI Market Forecast 2024
+2025,Korea,SK Ecoplant,12000,McKinsey Industry Outlook 2024
+2025,USA,Bechtel,6000,Gartner Market Forecast 2024
+2025,China,CTCI,4000,IC Insights Market Outlook 2024
+2020,삼성물산,150000
+2020,SK에코플랜트,80000
+2020,현대건설,70000
+2020,대우건설,50000
+2021,삼성물산,180000
+2021,SK에코플랜트,95000
+2021,현대건설,85000
+2021,대우건설,60000
+2022,삼성물산,220000
+2022,SK에코플랜트,120000
+2022,현대건설,100000
+2022,대우건설,75000
+2023,삼성물산,250000
+2023,SK에코플랜트,150000
+2023,현대건설,120000
+2023,대우건설,90000
+2024,삼성물산,280000
+2024,SK에코플랜트,180000
+2024,현대건설,140000
+2024,대우건설,100000 

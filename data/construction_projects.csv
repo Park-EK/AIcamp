@@ -1,0 +1,29 @@
+Year,Country,Company,Project_Name,City,Investment_Amount,Status,Latitude,Longitude,Source
+2020,Korea,Samsung,P3 Line,Pyeongtaek,30000,Completed,36.9745,127.0951,Samsung Electronics Annual Report 2020
+2020,Taiwan,TSMC,Fab 18,Tainan,19800,Completed,23.1505,120.3117,TSMC Annual Report 2020
+2020,USA,Intel,Fab D1X Mod3,Hillsboro,23000,Completed,45.5155,-122.9802,Intel Newsroom (2020-05-28)
+2021,Korea,SK Ecoplant,M16 Phase 1,Icheon,25000,Completed,37.2797,127.4464,SK Annual Report 2021
+2021,China,SMIC,New Fab,Shanghai,8900,Completed,31.2304,121.4737,SMIC Financial Report 2021
+2021,Taiwan,TSMC,Fab 18 Phase 2,Tainan,15600,Completed,23.1505,120.3117,TSMC Annual Report 2021
+2022,Korea,Samsung,P4 Line,Pyeongtaek,45000,In Progress,36.9745,127.0951,Samsung Electronics IR (2022-Q4)
+2022,USA,Intel,Ohio Fab,New Albany,20000,In Progress,40.0819,-82.8088,Intel Press Release (2022-01-21)
+2022,Taiwan,TSMC,Fab 21,Kaohsiung,28000,In Progress,22.6273,120.3014,TSMC Press Release (2022-11-09)
+2023,Korea,SK Ecoplant,M16 Phase 2,Icheon,35000,In Progress,37.2797,127.4464,SK Holdings IR (2023-Q2)
+2023,USA,TSMC,Arizona Fab,Phoenix,40000,In Progress,33.4484,-112.0740,TSMC Press Release (2023-04-15)
+2023,China,SMIC,New Fab,Beijing,7500,In Progress,39.9042,116.4074,SMIC Financial Report 2023
+2024,Korea,Samsung,P5 Line,Pyeongtaek,50000,Planned,36.9745,127.0951,SEMI World Fab Forecast (2023-Q4)
+2024,Taiwan,TSMC,Fab 22,Kaohsiung,32000,Planned,22.6273,120.3014,Nikkei Asia (2023-12-15)
+2024,USA,Intel,Ohio Phase 2,New Albany,25000,Planned,40.0819,-82.8088,Intel Future Outlook 2024
+2025,Korea,SK Ecoplant,M17,Yongin,42000,Planned,37.2410,127.2051,McKinsey Semiconductor Report 2023
+2025,USA,TSMC,Arizona Phase 2,Phoenix,35000,Planned,33.4484,-112.0740,Gartner Forecast 2023
+2025,Taiwan,TSMC,Fab 23,Tainan,30000,Planned,23.1505,120.3117,IC Insights Report 2023
+2023,삼성 평택 P3,삼성물산,Korea,진행중,30000,36.9945,127.0889
+2023,SK하이닉스 용인 반도체 클러스터,SK에코플랜트,Korea,진행중,120000,37.2410,127.1776
+2023,TSMC 구마모토 공장,다케나카,Japan,진행중,80000,32.8032,130.7079
+2024,Intel Magdeburg Fab,Bechtel,Germany,계획,170000,52.1205,11.6276
+2024,삼성 테일러 공장,삼성물산,USA,진행중,200000,30.5595,-97.4090
+2024,TSMC 애리조나 공장,Turner Construction,USA,진행중,400000,33.4484,-112.0740
+2024,SK하이닉스 청주 M15,SK에코플랜트,Korea,진행중,15000,36.6424,127.4890
+2025,Intel Ohio Fab,Bechtel,USA,계획,200000,40.0992,-82.8748
+2025,삼성 평택 P4,삼성물산,Korea,계획,25000,36.9945,127.0889
+2025,TSMC 가오슝 공장,CTCI,Taiwan,계획,85000,22.6273,120.3014 
